@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Safe-zone is 66dp diameter centered at (54, 54): x from 21 to 87, y from 21 to 87 -->
+
+    <!-- Base Circular Emblem Glow -->
+    <path
+        android:pathData="M54,23 A31,31 0 1,0 54,85 A31,31 0 1,0 54,23 Z"
+        android:fillColor="#15243B" />
+    <path
+        android:pathData="M54,23 A31,31 0 1,0 54,85 A31,31 0 1,0 54,23 Z"
+        android:strokeColor="#3A506B"
+        android:strokeWidth="1.5" />
+
+    <!-- Candle 1: Teal Bar -->
+    <path
+        android:pathData="M35,52 L35,74"
+        android:strokeColor="#00E676"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M31,56 C31,54.8 31.8,54 33,54 L37,54 C38.2,54 39,54.8 39,56 L39,68 C39,69.2 38.2,70 37,70 L33,70 C31.8,70 31,69.2 31,68 Z"
+        android:fillColor="#00E676" />
+
+    <!-- Candle 2: Emerald Green Bull Bar -->
+    <path
+        android:pathData="M48,42 L48,72"
+        android:strokeColor="#00E676"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M44,46 C44,44.8 44.8,44 46,44 L50,44 C51.2,44 52,44.8 52,46 L52,64 C52,65.2 51.2,66 50,66 L46,66 C44.8,66 44,65.2 44,64 Z"
+        android:fillColor="#00E676" />
+
+    <!-- Candle 3: Gold Bull Bar -->
+    <path
+        android:pathData="M61,34 L61,66"
+        android:strokeColor="#FFD166"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M57,38 C57,36.8 57.8,36 59,36 L63,36 C64.2,36 65,36.8 65,38 L65,54 C65,55.2 64.2,56 63,56 L59,56 C57.8,56 57,55.2 57,54 Z"
+        android:fillColor="#FFD166" />
+
+    <!-- Candle 4: Amber Leading Bar -->
+    <path
+        android:pathData="M73,28 L73,58"
+        android:strokeColor="#FFB703"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M69,32 C69,30.8 69.8,30 71,30 L75,30 C76.2,30 77,30.8 77,32 L77,48 C77,49.2 76.2,50 75,50 L71,50 C69.8,50 69,49.2 69,48 Z"
+        android:fillColor="#FFB703" />
+
+    <!-- Ascending Bull Trendline with Sharp Arrowhead -->
+    <path
+        android:pathData="M27,73 L40,61 L51,52 L64,40 L78,28"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Arrow head at the top-right apex -->
+    <path
+        android:pathData="M67,27 L80,27 L80,40"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Stylized Australian Gold Kangaroo Leap Curve -->
+    <path
+        android:pathData="M40,78 C48,79 56,77 63,73 C68,70 73,65 76,59"
+        android:strokeColor="#FFD166"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M76,59 C77,57 79,54 80,53 C80.5,53.5 80,55 79,57 C78,59 75,64 71,68"
+        android:fillColor="#FFD166" />
+
+    <!-- High-tech Grid baseline accent -->
+    <path
+        android:pathData="M30,81 L78,81"
+        android:strokeColor="#FFD166"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+</vector>

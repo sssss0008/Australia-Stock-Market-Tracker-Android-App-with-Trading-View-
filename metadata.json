@@ -1,0 +1,6 @@
+{
+  "name": "Australia Market Tracker",
+  "description": "Comprehensive Australian financial market tracker featuring live ASX charts, stock screener, heatmaps, company technicals, economic calendar, and market tickers powered by TradingView.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
